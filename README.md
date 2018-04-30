@@ -1,8 +1,8 @@
 # ShaderGraphExtensions
 Shader Graph Extensions for Unity
 
-## Screen Shot
-![alt text](Documentation/Screen Shot.png "Solid Texture Screenshot")
+## Sample Screen Shot
+![alt text](Documentation/ScreenShot.png "Solid Texture Screenshot")
 
 ## 3D Bars
 ![alt text](Documentation/Bars.png "Bars Solid Texture Source")
